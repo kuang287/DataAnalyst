@@ -1,2 +1,0 @@
-# DataAnalyst
-DataAnalyst_UdacityNanodegree
