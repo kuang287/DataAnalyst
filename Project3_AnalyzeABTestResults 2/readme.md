@@ -5,6 +5,9 @@ The client requested an analysis of the actual (old) and the new websites in the
 
 ### Table of Contents
 Introduction
+
 Part I - Probability
+
 Part II - A/B Test
+
 Part III - Regression
