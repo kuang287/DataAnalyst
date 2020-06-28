@@ -13,13 +13,13 @@ Learn the data analysis process of wrangling, exploring, analyzing, and communic
 
 In this project, you'll get familiar with SQL, and learn how to download data from a database. You’ll analyze local and global temperature data and compare the temperature trends where you live to overall global temperature trends.
 
-[Explore Weather Trends](project1_weathertrends.ipynb)
+[Explore Weather Trends](https://github.com/kuang287/DataAnalyst/tree/main/project1_Explore%20Weather%20Trends)
 
 ##### Project - Investigate a Dataset
 
 You will choose one of Udacity's curated datasets and investigate it using NumPy and Pandas. Go through the entire data analysis process, starting by posing a question and finishing by sharing your findings.
 
-[Investigate a dataset: Investigating European Soccer Database](investigate_a_dataset.ipynb)
+[Investigate a dataset](https://github.com/kuang287/DataAnalyst/tree/main/Project2_Investigate%20a%20Dataset)
 
 
 ### Part 2: Practical Statistics
