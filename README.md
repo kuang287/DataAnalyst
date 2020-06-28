@@ -4,7 +4,7 @@
 
 The repository contains projects for Udacity's [Data Analyst Nanodegree](https://www.udacity.com/course/data-analyst-nanodegree--nd002). 
 
-I took this online course to advance analytics skills in Data Analytics with Python. This course focuses on Data Wrangling, Data Visualization, and A/B Hypothesis Testing.
+I took this online course to advance data analytics skills with Python. This course focuses on Data Wrangling, Data Visualization, and A/B Hypothesis Testing.
 
 ### Part 1: Investigate a Dataset -Introduction to Data Analysis
 Learn the data analysis process of wrangling, exploring, analyzing, and communicating data. Work with data in Python, using libraries like NumPy and Pandas.
@@ -31,22 +31,6 @@ Learn how to apply inferential statistics and probability to real-world scenario
 Analyze the results of an A/B test run by an e-commerce website to decide whether the company should implement new page, keep the old page, or perhaps run the experiment longer to increase user conversion rate. 
 
 [Analyze A/B Test Results](https://github.com/kuang287/DataAnalyst/tree/main/Project3_AnalyzeABTestResults%202)
-
-#### Selected topics of Practical Statistics
-- 2.1 Descriptive Statistics Part 1 and Part 2
-- 2.2 Admission Case Study- Learn to ask the right quesiton, as you learn about Simpson's Paradox.
-- 2.3 Probability
-- 2.4 Binomial Distribution
-- 2.5 Conditional Probability
-- 2.6 Bayes Rule
-- 2.7 Python Probability Practice
-- 2.8 Normal Distribution Theory
-- 2.9 Sampling Distribution and the Central Limit Theorem
-- 2.10 Confidence Intervals
-- 2.11 Hypothesis Testing and A/B Tests
-- 2.12 Regression
-- 2.13 Multiple Linear Regression
-- 2.14 Logistic Regression
 
 ### Part 3: Wrangle and Analyze Data
 
