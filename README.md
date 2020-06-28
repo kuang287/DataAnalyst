@@ -38,6 +38,6 @@ Learn the data wrangling process of gathering, assessing, and cleaning data. Lea
 
 ##### Project - Wrangle and Analyze Data
 
-Real-world data rarely comes clean. Using Python, you'll gather data from a variety of sources, assess its quality and tidiness, then clean it. You'll document your wrangling efforts in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python and SQL.
+Real-world data rarely comes clean. Using Python, you'll gather data from a variety of sources, assess its quality and tidiness, then clean it. You'll document your wrangling efforts in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python.
 
 [Wrangle and Analyze Data](https://github.com/kuang287/DataAnalyst/tree/main/Project4_Data%20Wrangling)
