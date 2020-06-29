@@ -4,16 +4,10 @@ The project covers the Data Wrangling section of Udacity Data Analyst Nanodegree
 
 It includes the following files:
 
-1. wrangle_act.ipynb
-
-Jupyter notebook in which the data is 
+1. wrangle_act.ipynb: Jupyter notebook in which the data is 
 - gathered, assessed, cleaned,
 - stored, analyzed and visualized
 
-2. wrangle_report.pdf
+2. wrangle_report.pdf: A internal report on brief summary of the data wrangling process.
 
-A internal report on brief summary of the data wrangling process.
-
-3. act_report.pdf
-
-The external report on presenting the analysis and visualization result from the data wrangling process.
+3. act_report.pdf: The external report on presenting the analysis and visualization result from the data wrangling process.
