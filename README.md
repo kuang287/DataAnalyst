@@ -41,3 +41,13 @@ Learn the data wrangling process of gathering, assessing, and cleaning data. Lea
 Real-world data rarely comes clean. Using Python, you'll gather data from a variety of sources, assess its quality and tidiness, then clean it. You'll document your wrangling efforts in a Jupyter Notebook, plus showcase them through analyses and visualizations using Python.
 
 [Wrangle and Analyze Data](https://github.com/kuang287/DataAnalyst/tree/main/Project4_Data%20Wrangling)
+
+### Part 4: Data Visualization
+
+Learn to apply visualization principles to the data analysis process. Explore data visually at multiple levels to find insights and create a compelling story.
+
+##### Project - Communicate Data Findings
+
+You will use Python’s data visualization tools to systematically explore a selected dataset for its properties and relationships between variables. Then, you will create a presentation that communicates your findings to others.
+
+[Communicate Data Findings](https://github.com/kuang287/DataAnalyst/tree/main/Project5_Data%20Visualization)
