@@ -5,6 +5,7 @@
 ## Dataset
 
 > This document explores the Ford GoBike data with approximately 1,860,000 bike rides records from 2018/01 - 2018/12. The attributes included the trip start/end time, as well as additional measurements such as longitude/latitude of start stations. 11 data points were removed from the analysis due to location of start station is outside of San Francisco Bay Area.
+> The data can be downloaded [here](https://s3.amazonaws.com/fordgobike-data/index.html)
 
 
 ## Summary of Findings
